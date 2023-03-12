@@ -1,5 +1,5 @@
 # Animanager - Sistema de Gerenciamento de Internos de um Hospital Veterinário
-Projeto desenvolvido durante a disciplina de Programação Orientada a Objetos (AS32A)
+Continuação do projeto desenvolvido durante a disciplina de POO, voltado agora para a disciplina de APOO
 ## Objetivos Gerais:
   - Aplicar os conceitos da Programação Orientada a Objetos em um projeto prático;
   - Compreender as regras de negócio e desenvolver uma solução que atenda-as.
